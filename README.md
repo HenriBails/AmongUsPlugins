@@ -5,11 +5,11 @@ If you want to host your own **Impostor** server, read [this](#Creating-Impostor
 
 # Plugins for Among us
 ## 1. Joining custom servers
-  ### Henri:
+  #### Henri:
   [Download these files](https://github.com/HenriBails/AmongUsPlugins/releases/download/0.1/CustomClientServer.zip) and put them in your Among Us game folder
 
-  ### Original:
-  Go in [**CustomServersClient**](https://github.com/andruzzzhka/CustomServersClient) to [*Releases*](https://github.com/andruzzzhka/CustomServersClient/releases/tag/1.3.0) and folow the Installation guide. 
+  > #### Original:
+  > Go in [**CustomServersClient**](https://github.com/andruzzzhka/CustomServersClient) to [*Releases*](https://github.com/andruzzzhka/CustomServersClient/releases/tag/1.3.0) and folow the Installation guide. 
   
   
 # Creating Impostor server

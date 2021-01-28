@@ -9,7 +9,7 @@ If you want to host your own **Impostor** server, start with making the server. 
     Download these files and put them in your Among Us game
 
   ### Source:
-  Go in [CustomServersClient](https://github.com/andruzzzhka/CustomServersClient) to *Releases* (https://github.com/andruzzzhka/CustomServersClient/releases/tag/1.3.0) and folow the Installation guide. 
+  Go in [**CustomServersClient**](https://github.com/andruzzzhka/CustomServersClient) to *Releases* (https://github.com/andruzzzhka/CustomServersClient/releases/tag/1.3.0) and folow the Installation guide. 
 
 
 # Creating Impostor server

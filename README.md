@@ -14,11 +14,8 @@ If you want to host your own **Impostor** server, read [this](#Creating-Impostor
 ## 2 Crowded mod
 
 1 (if you're the server owner) create impostor server (https://ci.appveyor.com/project/Impostor/Impostor/builds/36871832/artifacts) and add *AllOfUsBot.dll* (server color)
-2
 
-
-
-10 dll forge file https://www.curseforge.com/among-us/all-mods/crowdedmod
+2 add dll to plugins in among us folder (client color) (https://www.curseforge.com/among-us/all-mods/crowdedmod)
   
 # Creating Impostor server
  Go to [**Impostor**](https://github.com/Impostor/Impostor/wiki/Running-the-server) and only install server side (don't install the Client side)
@@ -26,3 +23,15 @@ If you want to host your own **Impostor** server, read [this](#Creating-Impostor
 
 # To-Do
  Add a certain color for $PATHS, another for links in the readme file, another for names of a mod/plugin or maybe for server side and one for client side, another for links that if you click you download files
+
+
+
+ # short
+CLIENT DOWNLOADEN EN RUNNEN
+ https://ci.appveyor.com/project/Impostor/Impostor/branch/dev/artifacts
+
+ als gerund, dan Among Us folder copy pasten en in de naam zetten: Custom server client
+ 
+ dan dit https://github.com/HenriBails/AmongUsPlugins/releases/download/0.1/CustomClientServer.zip
+
+ dan sherif mod in steken
